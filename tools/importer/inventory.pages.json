@@ -1,0 +1,252 @@
+{
+  "templates": [
+    {
+      "name": "'blog template'",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://aashirvaadsvasti.in/report-page.html",
+          "uuid": "4af6b8d814d9e1d7ff809608b459c78ec74b7545"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/our-recipe.html",
+          "uuid": "bd6c9cdf0dada8dc87821993cc486b09482124d1"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/about-us.html",
+          "uuid": "17c112b4ada0dcf53752b09e31168ad9116407e8"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/our-product.html",
+          "uuid": "39f4dc5468cdb4a0f838ccd188f37cf951630150"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/aashirvaad-svasti-buy-now.html",
+          "uuid": "7cb177315458b64ba9ac714f6a18b7c991f051f1"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/milk-with-report-card.html",
+          "uuid": "84aee2eabcf155cf16e74ddb2155d168391c00b3"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/contact-us.html",
+          "uuid": "e08f8bd4ab24a6df564d5ecc93c3e724d3cff8a8"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/sitemap.html",
+          "uuid": "fb790e562737da1fb8f9722b99dc7fac21053dd5"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/privacy-policy.html",
+          "uuid": "33f5f0d754b7b6961492c1b60daf54ec29945732"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/error-page.html",
+          "uuid": "a67572a2e49462dd59810681b805226659da319b"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/factory-address.html",
+          "uuid": "429748d5ceddea49c90a8f562719fffdc8de9f10"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/terms-of-use.html",
+          "uuid": "ed578e10c77993edb6abf6925bc252bf684cb2ac"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/faqs.html",
+          "uuid": "c4e8460db707685ad8e14994e7e2dd621c891dad"
+        }
+      ]
+    },
+    {
+      "name": "'Product Listing Page'",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://aashirvaadsvasti.in/our-recipe/semiya-payasam.html",
+          "uuid": "210303c0e80343cf007b06033cae1267f0df88ed"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/our-recipe/gajar-ka-halwa.html",
+          "uuid": "5abdf210050d4bb101105af6ff783a6302c1b326"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/our-recipe/besan-ladoo.html",
+          "uuid": "ef80095a93a502a4ee63bfb0e4e219deb6461a2a"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/our-recipe/rava-ladoo.html",
+          "uuid": "8c7116f7a442c5c6c9bc45ddab2afbcce761b4fe"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/our-recipe/ribbon-murukku.html",
+          "uuid": "8108ff745d402a284afe00da4f9b70ee4c6f6784"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/our-recipe/rose-cookies.html",
+          "uuid": "5fef407a68958ebd6a528c54890d23b5f214dbd9"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/our-recipe/coconut-karanji.html",
+          "uuid": "5377e53704400a4f8f90dc6d819b44067b8f28ef"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/our-recipe/bisi-bele-bath.html",
+          "uuid": "6af3097591a3dfd76ee7dee2764a961a455cbd81"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/our-recipe/badam-halwa.html",
+          "uuid": "6d49d7243e1b4edeb14b14eea275f3c68d248e3e"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/our-recipe/pumpkin-kheer.html",
+          "uuid": "12c75ad032f5fd4fe4b1624b3b27fad48e3ba3aa"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/our-recipe/malpua.html",
+          "uuid": "357744dafcda88a0f88be64a471993f5723daf83"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/our-recipe/pineapple-kesari.html",
+          "uuid": "364c9c0c1040142c190be87c0aa59a0f00ead3bb"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/our-recipe/obbattu.html",
+          "uuid": "41362add6bac6d1fc5f2e430d86acf6f51a3269d"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/our-recipe/chakkara-pongal.html",
+          "uuid": "b1bc3a34ddb94129d3babc823e3cab7b6289bcdf"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/our-recipe/mullu-murukku.html",
+          "uuid": "3de3272c7f8a8fdda4f8dbe3554b3a497a03d53d"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/our-recipe/badusha.html",
+          "uuid": "2c25bbab8319573e627f1119cdf0b67f1975c0f6"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/our-recipe/kul-kuls.html",
+          "uuid": "9646b076910d3f1d9b8e5467435d3385f56b6164"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/our-recipe/nei-appam.html",
+          "uuid": "64f9c664d117d062d2e8dea679abd4c00e3426df"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/our-recipe/naan-khatai.html",
+          "uuid": "4012d8c3351c6764018f29907737142195050243"
+        }
+      ]
+    },
+    {
+      "name": "'Product Showcase Template'",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://aashirvaadsvasti.in/our-product/aashirvaad-svasti-lactose-free-milk.html",
+          "uuid": "e08f04d6a20ec352c46d2fe0140d9e5fc0480d6c"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/our-product/aashirvaad-svasti-lassi.html",
+          "uuid": "e6e9be779949e7a8ae526125159f3a800bf00ec9"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/our-product/aashirvaad-svasti-select-milk.html",
+          "uuid": "88ef1472f7aa2155b78bf45ead84a33b4ac37310"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/our-product/aashirvaad-svasti-creamy-milk.html",
+          "uuid": "1c5e88a460af03b579e2981eaf1d78d404fd8e6c"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/our-product/aashirvaad-svasti-paneer-slices.html",
+          "uuid": "9914a05e82fd6459c424e1e90378a4271e97cef0"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/our-product/aashirvaad-svasti-pure-cow-ghee.html",
+          "uuid": "b087973b6986c7872e3fc2d23bf787b90add88b9"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/our-product/aashirvaad-svasti-paneer-block.html",
+          "uuid": "9f840daf935b94a83881bc427064a63e4f7d42e1"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/our-product/aashirvaad-mithaas-badam-halwa.html",
+          "uuid": "c6a1b39a14678d334084eed1824bcff5be28a502"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/our-product/aashirvaad-mithaas-kesar-peda.html",
+          "uuid": "ff85bacdb36db6747d9e2aee2dd5ee226ff7794c"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/our-product/aashirvaad-mithaas-shahi-peda.html",
+          "uuid": "66323835340bdbf13434794f02b2641a6e767052"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/our-product/aashirvaad-svasti-cow-milk.html",
+          "uuid": "642458ce92a01326791d47a7fcd982bd522283f4"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/our-product/ashirvaad-svasti-double-toned-milk.html",
+          "uuid": "f79ce7be99ca0ee612ae64af2c3146a795fe90b7"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/our-product/aashirvaad-svasti-daily-milk.html",
+          "uuid": "7aba759bf1b761f60dd1b737ce68e8ace9eaea84"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/our-product/aashirvaad-svasti-dahi.html",
+          "uuid": "aeb9c8a09f03cae18531129f3c8829d9c3560332"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/our-product/aashirvaad-svasti-mishti-doi.html",
+          "uuid": "440670bee74cd9d656e238def92fb6e4d72bbacd"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/our-product/aashirvaad-svasti-toned-milk.html",
+          "uuid": "dbff23f43bf38aa8eec28804cb5745f5d25460a4"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/our-product/aashirvaad-mithaas-moong-dal-halwa.html",
+          "uuid": "62b7c9401ef5e5ba389febdbe5a9477162934aff"
+        }
+      ]
+    },
+    {
+      "name": "'Portfolio Showcase'",
+      "cluster": 4,
+      "pages": [
+        {
+          "url": "https://aashirvaadsvasti.in/",
+          "uuid": "2050f029a2eb4b55588d9ff973ecea44d9d6e75a"
+        }
+      ]
+    },
+    {
+      "name": "'homepage'",
+      "cluster": 5,
+      "pages": [
+        {
+          "url": "https://aashirvaadsvasti.in/error-page/404.html",
+          "uuid": "52e4ea889e67c7c9462f7a01a6ef14fff36b20f2"
+        }
+      ]
+    },
+    {
+      "name": "'Business Website Template'",
+      "cluster": 6,
+      "pages": [
+        {
+          "url": "https://aashirvaadsvasti.in/our-product/aashirvaad-svasti-organic-cow-ghee.html",
+          "uuid": "68cb8eac557338adff1696c41e59bb52a07e2faf"
+        },
+        {
+          "url": "https://aashirvaadsvasti.in/our-product/aashirvaad-svasti-90-lower-cholesterol-cow-ghee.html",
+          "uuid": "86be8223f562dc05c4c3e18efb8f59993b940436"
+        }
+      ]
+    }
+  ]
+}
