@@ -37,4 +37,17 @@ export const customElements = [];
 /**
  * Custom transformers
  */
-export const customTransformers = {};
+export const customTransformers = {
+  header: (hookName, element) => {
+    if (hookName === TransformHook.beforeTransform) {
+      try {
+        element.querySelector('header')?.remove();
+        element.querySelector('footer')?.remove();
+        element.querySelector('#aiFabShadowRoot')?.remove();
+        element.querySelector('.scrollToTop')?.remove();
+      } catch (e) {
+        // noop
+      }
+    }
+  },
+};
