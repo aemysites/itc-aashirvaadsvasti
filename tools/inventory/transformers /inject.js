@@ -14,7 +14,7 @@
    
     try {
         document.querySelector('header')?.remove();
-        document.querySelector('foother')?.remove();
+        document.querySelector('footer')?.remove();
         document.querySelector('#aiFabShadowRoot')?.remove();
         document.querySelector('.scrollToTop')?.remove();    
       } catch (e) {
